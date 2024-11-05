@@ -1,14 +1,13 @@
-# Data Scientist
+# Data Analyst | Ex Senior Software Engineer
 
 ### Education
 - M.S., Data Analytics & Visualization | Yeshiva University at New York (_Expected May 2025_)
-- B.E., Electronics & Telecommunication | SCOE at Pune,IN (_June 2021_)
+- B.E., Electronics & Telecommunication | Sinhgad College Of Engineering at Pune,IN (_June 2021_)
 
 ### Work Experience
+Persistent Systems Ltd. at Pune,IN (Sep 2021 - Dec 2023) 
 
-Persistent Systems Ltd. (Sep 2021 - Dec 2023) 
-
-- Senior Software Engineer Pune, India (Jul 2023 - Dec 2023)
+- Senior Software Engineer (Jul 2023 - Dec 2023)
   
    -  Directed and coordinated the migration of Teradata databases to a cloud-based SaaS platform for Optum UnitedHealth Group, ensuring seamless data transition and reducing processing time by 30%.
   
