@@ -1,13 +1,8 @@
 # Data Scientist
 
 ### Education
-- Katz School of Science & Health - Yeshiva University (Jan 2024 - Ongoing)  New York, NY
-  
-   Master of Science in Data Analytics & Visualization - Cumulative GPA: 3.5
-  
-- Sinhgad College of Engineering (2017 - 2021) Pune, INDIA
-
-   Bachelor of Engineering in Electronics & Telecommunication - GPA: 3.2
+- M.S., Data Analytics & Visualization | Yeshiva University at New York (_Expected May 2025_)
+- B.E., Electronics & Telecommunication | SCOE at Pune,IN (_June 2021_)
 
 ### Work Experience
 
