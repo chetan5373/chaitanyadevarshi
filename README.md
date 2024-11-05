@@ -1,4 +1,11 @@
-# Data Analyst | Ex Senior Software Engineer
+## Data Analyst | Ex Senior Software Engineer
+
+#### Techinal Skills
+- __Language__: _Python, SQL_
+- __Data Analysis__: _Numpy, Pandas, Scikit-learn, Excel_
+- __Visualisation__: _Tableau, Matplotlib, Seaborn_
+- __Database__: _MySQL, PostgreSQL_
+- __Other Tools__: _Git, Rest APIs, PyTest, JIRA_
 
 ### Education
 - M.S., Data Analytics & Visualization | Yeshiva University at New York (_Expected May 2025_)
@@ -24,5 +31,6 @@ Persistent Systems Ltd. at Pune,IN (Sep 2021 - Dec 2023)
     - Optimized development processes by integrating MySQL, Jira, and Python-based automation for project tracking and code deployment, reducing project completion time by 15%.
 
 ### Projects
+
 
 
