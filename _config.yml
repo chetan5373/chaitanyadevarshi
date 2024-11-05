@@ -3,7 +3,5 @@ logo: assests/img/imagee.png
 # description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-seo-tag
-include:
-  - assets/css/style.css
+social_links:
+  linkedin: linkedin.com/in/chaitanya-devarshi-7339261b1
