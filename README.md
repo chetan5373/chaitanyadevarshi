@@ -17,14 +17,14 @@
 
 __Persistent Systems Ltd.__ at Pune,IN (Sep 2021 - Dec 2023) 
 
-- Senior Software Engineer (Jul 2023 - Dec 2023)
+- __Senior Software Engineer__ (Jul 2023 - Dec 2023)
   
     - Directed and coordinated the migration of Teradata databases to a cloud-based SaaS platform for Optum UnitedHealth Group, ensuring seamless data transition and reducing processing time by 30%.
 
     - Formulated Python scripts and SQL queries to automate data migration processes, which refined data precision by 20% and reduced manual processing time by 50%.
 
 
-- Software Engineer (Sep 2021 - Jun 2023)
+- __Software Engineer__ (Sep 2021 - Jun 2023)
   
     - Crafted and implemented backend functionality using core Python, building efficient data retrieval and storage solutions with PostgreSQL, resulting in a 15% improvement in project completion time.
     - Streamlined unit, integration, and functional validation with HP ALM and PyTest, boosting code validation precision by 30% and defect detection by 25%, while cutting test execution time by 40%.
@@ -33,6 +33,8 @@ __Persistent Systems Ltd.__ at Pune,IN (Sep 2021 - Dec 2023)
 ### Projects
 
 __E-commerce Customer Segmentation and Purchase Prediction__ | Python, Clustering, KNN Modeling
+
+![Image]()
 
   - Implemented a KNN model with 97.13% accuracy on e-commerce data, identifying three key customer segments: high-value, moderate, and low-engagement.
     
