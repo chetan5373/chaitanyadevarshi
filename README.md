@@ -67,6 +67,9 @@ __Disease Data Modeling and Warehousing Project__ | PostgreSQL, ETL, Data Modeli
 
 ### Certificates
 
+![Image](assests/img/TT.png)
+
+
 ![Image](assests/img/IIITB.png)
 
 
@@ -74,3 +77,9 @@ __Disease Data Modeling and Warehousing Project__ | PostgreSQL, ETL, Data Modeli
 
 
 ![Image](assests/img/Kaggle.png)
+
+
+![Image](assests/img/MB.png)
+
+
+![Image](assests/img/SKV.png)
