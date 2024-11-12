@@ -1,6 +1,7 @@
 ## Data Analyst | Ex Senior Software Engineer
 
 #### Techinal Skills
+
 - __Language__: _Python, SQL_
 - __Data Analysis__: _Numpy, Pandas, Scikit-learn, Excel_
 - __Visualisation__: _Tableau, Matplotlib, Seaborn_
@@ -8,11 +9,13 @@
 - __Other Tools__: _Git, Rest APIs, PyTest, JIRA_
 
 ### Education
+
 - M.S., Data Analytics & Visualization | Yeshiva University at New York (_Expected May 2025_)
 - B.E., Electronics & Telecommunication | Sinhgad College Of Engineering at Pune,IN (_June 2021_)
 
 ### Work Experience
-Persistent Systems Ltd. at Pune,IN (Sep 2021 - Dec 2023) 
+
+__Persistent Systems Ltd.__ at Pune,IN (Sep 2021 - Dec 2023) 
 
 - Senior Software Engineer (Jul 2023 - Dec 2023)
   
