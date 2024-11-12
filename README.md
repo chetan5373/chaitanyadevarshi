@@ -37,6 +37,7 @@ __E-commerce Customer Segmentation and Purchase Prediction__ | Python, Clusterin
 __High-Risk Heart Disease Prediction Model__ | Python, SVM, Neural Networks, Random Forest
 
   - Investigated heart disease data from 1.3 million patients to identify individuals with a high probability of future heart attacks.
+    
   - Constructed machine learning models (Random Forest, SVM) to predict high-risk patients, achieving a prediction accuracy of 92%.
     
 __New York Motor Vehicle Collisions - Crashes__ | Tableau, Storytelling
