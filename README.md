@@ -58,6 +58,8 @@ __New York Motor Vehicle Collisions - Crashes__ | Tableau, Storytelling
     
 __Disease Data Modeling and Warehousing Project__ | PostgreSQL, ETL, Data Modeling, AWS, DbSchema
 
+![Image](assests/img/Img5.png)
+
    - Devised ER diagrams and interactive dashboards to visualize disease trends, improving healthcare decision-making; proposed an AWS architecture and conducted a comparative analysis of Snowflake vs. PostgreSQL, achieving a 20% cost-performance benefit.
 
    - Engineered a scalable, dimensional data model in PostgreSQL with ETL pipelines, optimizing disease data storage and streamlining data flow by 30%, enhancing analytics efficiency.
