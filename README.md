@@ -34,7 +34,7 @@ __Persistent Systems Ltd.__ at Pune,IN (Sep 2021 - Dec 2023)
 
 __E-commerce Customer Segmentation and Purchase Prediction__ | Python, Clustering, KNN Modeling
 
-![Image](assests/img/Image2.png)
+![Image](assests/img/Img2.png)
 
   - Implemented a KNN model with 97.13% accuracy on e-commerce data, identifying three key customer segments: high-value, moderate, and low-engagement.
     
