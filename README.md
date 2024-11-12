@@ -28,6 +28,7 @@ Persistent Systems Ltd. at Pune,IN (Sep 2021 - Dec 2023)
     - Supervised a team of 7 engineers, refining workflows through MySQL, Jira, and Python-based automation for project tracking, achieving a 20% faster delivery rate on key client projects.
 
 ### Projects
+
 __E-commerce Customer Segmentation and Purchase Prediction__ | Python, Clustering, KNN Modeling
 
   - Implemented a KNN model with 97.13% accuracy on e-commerce data, identifying three key customer segments: high-value, moderate, and low-engagement.
