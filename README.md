@@ -16,9 +16,12 @@ Persistent Systems Ltd. at Pune,IN (Sep 2021 - Dec 2023)
 
 - Senior Software Engineer (Jul 2023 - Dec 2023)
   
-   -  Directed and coordinated the migration of Teradata databases to a cloud-based SaaS platform for Optum UnitedHealth Group, ensuring seamless data transition and reducing processing time by 30%.
-  
-   -  Developed Python scripts and SQL queries to automate data migration processes, which improved data accuracy by 20% and cut manual processing time by 50%.
+●	 Directed and coordinated the migration of Teradata databases to a cloud-based SaaS platform for Optum UnitedHealth Group, ensuring seamless data transition and reducing processing time by 30%.
+
+●	Formulated Python scripts and SQL queries to automate data migration processes, which refined data precision by 20% and reduced manual processing time by 50%.
+
+![image](https://github.com/user-attachments/assets/035e5ad3-3c9d-4550-9172-9ae2a100e9cc)
+
 
 - Software Engineer (Sep 2021 - Jun 2023)
   
