@@ -69,10 +69,8 @@ __Disease Data Modeling and Warehousing Project__ | PostgreSQL, ETL, Data Modeli
 
 ![Image](assests/img/IIITB.png)
 
+
 ![Image](assests/img/CN.png)
 
-![Image](assests/img/Kaggle.png)
 
-- __![Advanced Certificate Programme in Data Science](https://drive.google.com/file/d/1wltgkRMW5-5fFnvsRgAATs6TtpYo8xjR/view?usp=sharing)__ 
-- __![Data Science & Machine Learning Complete Course](https://drive.google.com/file/d/1BbegvanPHj9RAxxCY-mrm964ISwlwHjX/view?usp=sharing)__
-- __![Python Course](https://drive.google.com/file/d/19WKXChrpBW_6eJjkZAMT8SXBf9eDMh0x/view?usp=sharing)__
+![Image](assests/img/Kaggle.png)
