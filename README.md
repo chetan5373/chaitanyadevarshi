@@ -50,6 +50,8 @@ __High-Risk Heart Disease Prediction Model__ | Python, SVM, Neural Networks, Ran
     
 __New York Motor Vehicle Collisions - Crashes__ | Tableau, Storytelling
 
+![Image](assests/img/Img4.png)
+
   - Analyzed NYPD Motor Vehicle Collision data in Tableau, highlighting Brooklyn as the highest collision borough, with peak incidents in July and August, 30% higher than other months.
     
   - Delivered actionable insights on collision hotspots and time patterns for targeted decision-making and resource planning.
