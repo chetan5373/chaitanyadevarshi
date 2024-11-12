@@ -3,10 +3,11 @@
 #### Techinal Skills
 
 - __Language__: _Python, SQL_
-- __Data Analysis__: _Numpy, Pandas, Scikit-learn, Excel_
-- __Visualisation__: _Tableau, Matplotlib, Seaborn_
+- __ML/DL__: _scikit-learn, Supervised, Unsupervised, Neural Networks, Transformers, NLP_
+- __Data Analysis__: _Numpy, Pandas, EDA, Feature Engineering_
+- __Visualisation__: _Tableau, Matplotlib, Seaborn, Excel, Storytelling_
 - __Database__: _MySQL, PostgreSQL_
-- __Other Tools__: _Git, Rest APIs, PyTest, JIRA_
+- __Other Tools__: _Git, Rest APIs, PyTest, JIRA, AWS_
 
 ### Education
 
